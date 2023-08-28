@@ -1,7 +1,7 @@
 # Banco de Dados para registro dos clientes/serviços de um PetShop
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: Banco de Dados
+`Disciplina: Banco de Dados`
 `2023 - 3° Periodo`
 
 ## Integrantes
