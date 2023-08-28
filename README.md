@@ -1,15 +1,15 @@
-# TÍTULO DO PROJETO
+# Banco de Dados para registro dos clientes/serviços de um PetShop
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: Banco de Dados
+`2023 - 3° Periodo`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Gabriel Majeau
+- Gabriel Alderige
+- Matheus Monteiro
+- Vinicius Assis
 
 # Documentação
 
