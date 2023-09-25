@@ -83,3 +83,5 @@
   - idanimal
   - data_adicao
   - relacao
+  - created_at;
+  - updated_at.
